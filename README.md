@@ -24,7 +24,7 @@ A complete Laravel-based web application for managing book inventories with CRUD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/bookstore.git
+   git clone https://github.com/ZannatulRaian/bookstore.git
    cd bookstore
    ```
 
